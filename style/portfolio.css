@@ -7,9 +7,21 @@
   height: 64px;
   font-weight: 700;
   font-size: 20px;
+  color: #FFFFFF;
   background: #fd6e0a;
   border-radius: 5px;
   border: 0;
+  padding: 18px 35px;
+}
+.btn-contact{
+  height: 64px;
+  font-weight: 700;
+  color: #FD6E0A;
+  font-size: 20px;
+  border: 1px solid #FD6E0A;
+  border-radius: 5px;
+  background-color: #FFF8F3;
+  margin-left: 30px;
   padding: 18px 35px;
 }
 .header {
@@ -22,7 +34,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 50px 200px;
 }
 .nav-title {
   font-weight: 800;
@@ -78,7 +90,7 @@ main {
   text-align: center;
   font-weight: 700;
   font-size: 35px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 .section-description {
   font-weight: 400;
@@ -146,7 +158,7 @@ main {
 .resume .title {
   color: #474747;
   font-weight: 700;
-font-size: 25px;
+font-size: 30px;
 margin-bottom: 10px;
 }
 .resume .sub-title {
